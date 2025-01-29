@@ -1,4 +1,4 @@
-# TASK 1
+# TASK 2
 # How many customers are there in each country? Which are the top 5 countries?
 SELECT country, count(*) 
 FROM classicmodels.customers
